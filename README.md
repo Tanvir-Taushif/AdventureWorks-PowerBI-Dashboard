@@ -44,6 +44,11 @@ Below are screenshots of the dashboard, demonstrating the various analytical vie
 
 You can view the live Power BI dashboard for the AdventureWorks analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYmI4ZTg3YTMtZWE4Yy00N2JkLWFlNWMtZjUzMTBhNzhlNDMzIiwidCI6IjFiMGY2ZDU2LTBkOTEtNDZiNy04NzFiLTBmNzljNzJhYmYxZiIsImMiOjEwfQ%3D%3D&fbclid=IwY2xjawJInr5leHRuA2FlbQIxMAABHRfwl_FQi5pNYAoCt2mWkoZjujVmrkyE5qbDaNPGYTqqGNPl4nTPbs5Z5w_aem_eQVMCB6c9pb6RxRuOd58oQ).
 
+## Project Video
+
+Watch the project video on LinkedIn: [Power BI Dashboard - AdventureWorks Cycles](https://www.linkedin.com/feed/update/urn:li:activity:7308387468888748033/)
+
+
 
 ## Conclusion:
 This dashboard provides a comprehensive overview of the AdventureWorks Cycles shop’s operations, focusing on customer insights, product performance, and regional sales. By leveraging Power BI's advanced features and DAX calculations, this project demonstrates how businesses can make data-driven decisions to optimize sales strategies, improve customer retention, and grow their operations.
