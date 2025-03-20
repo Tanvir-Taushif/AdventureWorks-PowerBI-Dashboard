@@ -22,23 +22,23 @@ This project showcases an advanced Power BI dashboard built for analyzing the Ad
 ## Dashboard Screenshots:
 Below are screenshots of the dashboard, demonstrating the various analytical views:
 
-![Executive Summary](https://github.com/yourusername/yourrepository/blob/main/path_to_image1.jpg)
+![Executive Summary]((./Images/1.JPG))
 *The Executive Summary section displays the total orders, revenue, and profit, as well as product categories and top products by quantity sold.*
 
-![Territory Comparison](https://github.com/yourusername/yourrepository/blob/main/path_to_image2.jpg)
+![Territory Comparison]((./Images/2.JPG))
 *This view shows a regional breakdown of revenue, customer data, and profit margins across North America, Europe, and the Pacific.*
 
-![Customer Insights](https://github.com/yourusername/yourrepository/blob/main/path_to_image3.jpg)
+![Customer Insights]((./Images/3.JPG))
 *Customer cohort analysis along with customer segmentation insights, including spend behavior, purchase frequency, and retention rates.*
 
-![Loyal Customers](https://github.com/yourusername/yourrepository/blob/main/path_to_image4.jpg)
-*Details of loyal customers, with their spending habits and total revenue contribution to the business.*
+![Loyal Customers]((./Images/4.JPG))
+*Details of customer segment, with their spending habits and total revenue contribution to the business.*
 
-![Product Analysis](https://github.com/yourusername/yourrepository/blob/main/path_to_image5.jpg)
+![Product Analysis]((./Images/5.JPG))
 *Product performance analysis for the "Water Bottle - 30 oz." including sales versus targets and revenue trends over time.*
 
-![Detailed Executive Summary](https://github.com/yourusername/yourrepository/blob/main/path_to_image6.jpg)
-*An additional executive summary showing total revenue and orders, segmented by product categories.*
+![Detailed Executive Summary]((./Images/6.JPG))
+*An additional executive summary showing tooltip total revenue and orders, segmented by product categories.*
 
 ## Conclusion:
 This dashboard provides a comprehensive overview of the AdventureWorks Cycles shop’s operations, focusing on customer insights, product performance, and regional sales. By leveraging Power BI's advanced features and DAX calculations, this project demonstrates how businesses can make data-driven decisions to optimize sales strategies, improve customer retention, and grow their operations.
