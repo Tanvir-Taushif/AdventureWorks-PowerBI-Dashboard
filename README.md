@@ -37,7 +37,7 @@ Below are screenshots of the dashboard, demonstrating the various analytical vie
 ![Product Analysis](Images/5.JPG)
 *Product performance analysis for the "Water Bottle - 30 oz." including sales versus targets and revenue trends over time.*
 
-![Detailed Executive Summary](Images/6.JPG)
+![Detailed Executive Summary](Images/6.jpg)
 *An additional executive summary showing tooltip total revenue and orders, segmented by product categories.*
 
 ## Conclusion:
