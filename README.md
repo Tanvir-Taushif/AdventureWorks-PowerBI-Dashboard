@@ -22,22 +22,22 @@ This project showcases an advanced Power BI dashboard built for analyzing the Ad
 ## Dashboard Screenshots:
 Below are screenshots of the dashboard, demonstrating the various analytical views:
 
-![Executive Summary]((Images/1.JPG))
+![Executive Summary](Images/1.JPG)
 *The Executive Summary section displays the total orders, revenue, and profit, as well as product categories and top products by quantity sold.*
 
-![Territory Comparison]((Images/2.JPG))
+![Territory Comparison](Images/2.JPG)
 *This view shows a regional breakdown of revenue, customer data, and profit margins across North America, Europe, and the Pacific.*
 
-![Customer Insights]((Images/3.JPG))
+![Customer Insights](Images/3.JPG)
 *Customer cohort analysis along with customer segmentation insights, including spend behavior, purchase frequency, and retention rates.*
 
-![Loyal Customers]((Images/4.JPG))
+![Loyal Customers](Images/4.JPG)
 *Details of customer segment, with their spending habits and total revenue contribution to the business.*
 
-![Product Analysis]((Images/5.JPG))
+![Product Analysis](Images/5.JPG)
 *Product performance analysis for the "Water Bottle - 30 oz." including sales versus targets and revenue trends over time.*
 
-![Detailed Executive Summary]((Images/6.JPG))
+![Detailed Executive Summary](Images/6.JPG)
 *An additional executive summary showing tooltip total revenue and orders, segmented by product categories.*
 
 ## Conclusion:
